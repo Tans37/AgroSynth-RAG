@@ -1,6 +1,6 @@
 import os
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
-os.environ["OPENAI_API_KEY"]  = "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"
+os.environ["OPENAI_API_KEY"]  = "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" #You mighnt need your own api key here
 os.environ["OPENAI_API_BASE"] = "https://openrouter.ai/api/v1"
 
 import openai
@@ -17,11 +17,11 @@ import openai
 openai.api_key = os.getenv("OPENAI_API_KEY")
 openai.api_base = os.getenv("OPENAI_API_BASE")
 
-MODEL_NAME = "meta-llama/llama-3.3-8b-instruct:free"   # or whatever your OpenRouter LLaMA model is called
+MODEL_NAME = "meta-llama/llama-3.3-8b-instruct:free"   
 
 # ——— Load your FAISS index ———
 embed      = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-faiss_index = FAISS.load_local("faiss_pest_index", embed, allow_dangerous_deserialization=True)
+faiss_index = FAISS.load_local("faiss_pest_complete", embed, allow_dangerous_deserialization=True)
 
 # ——— Utility functions (weather + GDD) ———
 def fetch_weather(lat: float, lon: float) -> dict:
