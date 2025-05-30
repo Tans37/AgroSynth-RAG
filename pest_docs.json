@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fall_armyworm",
+    "title": "Fall Armyworm (Spodoptera frugiperda)",
+    "text": "Origin & Spread: Native to the Americas; long present in the southern U.S., migrating north each summer.\nCrops Affected: Maize, rice, sorghum, cotton, and 80+ others.\nU.S. Distribution: Year-round in FL, TX, LA; seasonal migrants into the Midwest and Northeast.\nClimate Profile: Thrives where mean temperatures > 15 °C; multiple generations per year in tropical/subtropical zones; migratory in temperate zones.\nPhenology: Cumulative GDD base 10 °C; outbreaks when GDD > 400.\nImpact: Globally causes 8–20 Mt maize loss annually; U.S. losses spike locally during high-density years.",
+    "metadata": { "species": "fall_armyworm" }
+  },
+  {
+    "id": "brown_marmorated_stink_bug",
+    "title": "Brown Marmorated Stink Bug (Halyomorpha halys)",
+    "text": "Origin & Spread: Accidentally introduced to mid-Atlantic U.S. in 1990s; now in 44 states and parts of Europe.\nCrops Affected: Apple, peach, pear, corn, soybean, vegetables.\nU.S. Distribution: Established in PA, MD, VA, and spreading westward and northward.\nClimate Profile: Active 15–30 °C; overwinters as adult in sheltered sites; humidity > 50% favors survival.\nPhenology: First flight at GDD ≈ 150 (°C base 12); peak damage when GDD 400–800.\nImpact: 2010 outbreak caused ≈ $37 M tree-fruit losses in Mid-Atlantic alone.",
+    "metadata": { "species": "brown_marmorated_stink_bug" }
+  },
+  {
+    "id": "spotted_wing_drosophila",
+    "title": "Spotted-Wing Drosophila (Drosophila suzukii)",
+    "text": "Origin & Spread: Native to SE Asia; established in North America since 2008.\nCrops Affected: Soft fruits—strawberry, raspberry, blueberry, cherry, grape.\nU.S. Distribution: Pacific Northwest, Northeast, Midwest, Southeast.\nClimate Profile: Prefers 20–25 °C and RH > 70%; can overwinter in mild climates and greenhouses.\nPhenology: Multiple generations per season; peak oviposition when mean temps ≈ 22 °C.\nImpact: Can cause up to 100% loss in unprotected berries; major quarantine pest.",
+    "metadata": { "species": "spotted_wing_drosophila" }
+  },
+  {
+    "id": "asian_citrus_psyllid",
+    "title": "Asian Citrus Psyllid (Diaphorina citri)",
+    "text": "Origin & Spread: Native to South Asia; now widespread in FL, TX, and CA citrus regions.\nCrops Affected: All commercial citrus—orange, grapefruit, lemon, lime.\nU.S. Distribution: Established in peninsular Florida, southern Texas, pockets of California.\nClimate Profile: Development stops below ~15 °C; optimal survival at 25–30 °C, RH 60–80%.\nPhenology: GDD base 10 °C; adults appear when GDD 200–300.\nImpact: Vector of Huanglongbing (citrus greening), which kills trees within 2–5 years and reduces yields by > 50%.",
+    "metadata": { "species": "asian_citrus_psyllid" }
+  },
+  {
+    "id": "mediterranean_fruit_fly",
+    "title": "Mediterranean Fruit Fly (Ceratitis capitata)",
+    "text": "Origin & Spread: Native to sub-Saharan Africa; established in southern California and periodic outbreaks in FL and TX.\nCrops Affected: Citrus, stone fruits (peach, apricot), pome fruits (apple, pear), vegetables.\nU.S. Distribution: Yearly detections in CA’s Central Valley; quarantine zones in FL.\nClimate Profile: Prefers 20–30 °C, moderate humidity; intolerant of frost.\nPhenology: One generation every 22–30 days at 25 °C.\nImpact: Triggers multi-million-dollar eradication and quarantine programs in outbreak zones.",
+    "metadata": { "species": "mediterranean_fruit_fly" }
+  },
+  {
+    "id": "mexican_fruit_fly",
+    "title": "Mexican Fruit Fly (Anastrepha ludens)",
+    "text": "Origin & Spread: Native to Mexico/Central America; occasional introductions in southern Texas.\nCrops Affected: Grapefruit, mango, peach, pear, figs.\nU.S. Distribution: Sporadic interceptions and small infestations along U.S.–Mexico border.\nClimate Profile: Subtropical; cannot overwinter where winter lows < 10 °C.\nPhenology: Larval development ~20 days at 25 °C; three generations per year in Mexico.\nImpact: Strict control measures—sterile insect technique and bait-spray programs to prevent establishment.",
+    "metadata": { "species": "mexican_fruit_fly" }
+  },
+  {
+    "id": "diamondback_moth",
+    "title": "Diamondback Moth (Plutella xylostella)",
+    "text": "Origin & Spread: Likely from Europe; now cosmopolitan wherever brassicas grow.\nCrops Affected: Cabbage, broccoli, cauliflower, kale, canola.\nU.S. Distribution: Nationwide in cole-crop growing regions; migratory in temperate zones.\nClimate Profile: Rapid development at 15–25 °C (generation ≈ 14 days at 20 °C); RH 60–80%.\nPhenology: Generations overlap; peak populations in late spring and early fall.\nImpact: ~$4–5 B annual global losses; severe economic pest of U.S. crucifer production.",
+    "metadata": { "species": "diamondback_moth" }
+  },
+  {
+    "id": "red_imported_fire_ant",
+    "title": "Red Imported Fire Ant (Solenopsis invicta)",
+    "text": "Origin & Spread: Native to South America; introduced to southeastern U.S. in 1930s–40s; now in 13+ states.\nCrops Affected: Soybean, corn, cucurbits, citrus; mounds disrupt planting/harvesting.\nU.S. Distribution: FL, AL, MS, LA, TX, GA, SC, NC, TN, AR, OK, CA.\nClimate Profile: Prefers 20–30 °C, humid; cannot survive extended freezes.\nPhenology: Colony activity peaks at 25 °C; foraging increases with RH > 50%.\nImpact: ≈ $5 B/year in damage and control; reduces soybean yields by 30–50 kg/ha via mound disturbance.",
+    "metadata": { "species": "red_imported_fire_ant" }
+  }
+]
