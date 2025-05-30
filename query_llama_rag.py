@@ -1,6 +1,6 @@
 import os
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
-os.environ["OPENAI_API_KEY"]  = "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"
+os.environ["OPENAI_API_KEY"]  = "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"
 os.environ["OPENAI_API_BASE"] = "https://openrouter.ai/api/v1"
 
 import openai
