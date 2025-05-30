@@ -12,7 +12,7 @@ These are the major components in this repository:
 ## 🔍 Features
 
 - **Weather Alerts** (`weatherAlert.py` & `thresholds.js`)  
-  - Heavy rain (>1 mm), flood risk, high winds (>60 km/h), frost (<5 °C) and heat (>38 °C) notifications  
+  - Heavy rain (>40 mm), flood risk, high winds (>60 km/h), frost (<5 °C) and heat (>38 °C) notifications  
   - City-to-lat/lon geocoding via Open-Meteo API  
   - Simple CLI tool (`python weatherAlert.py`)
 
