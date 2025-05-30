@@ -1,3 +1,6 @@
+This repository is the submission for **Reboot the EarthGlobal Tech Challenge 2025 Hackathon** organized by **United Nations**, **Salesforce** and **CMU**.
+
+
 # AgroSynth-RAG
 
 **AgroSynth-RAG** combines real-time weather alerts with a retrieval-augmented LLaMA pipeline to give farmers both immediate climate warnings and localized pest-infestation risk forecasts.
