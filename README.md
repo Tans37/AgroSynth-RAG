@@ -20,7 +20,7 @@ These are the major components in this repository:
   - FAISS-indexed pest datasheets (region → top 3 pests)  
   - 7-day forecast (GDD, humidity, rain) from Open-Meteo  
   - OpenRouter LLaMA call to answer “Will there be infestation? If yes, which pest?”  
-  - Deterministic “No infestation expected.” or “Yes – <Common Name>” along with a breif generative explaination as to Why?
+  - Deterministic “No infestation expected.” or “Yes – (including the probable species)” along with a breif generative explaination as to Why?
 
 ---
 
