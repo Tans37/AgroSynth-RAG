@@ -14,7 +14,7 @@ This repository is a part of submission for **Reboot the EarthGlobal Tech Challe
 
 ---
 These are the major components in this repository:
-1. weatherAlert.py: This file is used to provide real time weather alerts if in case there are any anomalies or severe weather that can potenially impact the weather.
+1. weatherAlert.py: This file is used to provide real time weather alerts if in case there are any anomalies or severe weather that can potenially impact the crops.
 2. query_llama_rag.py: This file utilizes a corpus of data related to Agricultural pests in New York state which includes certain open source articles, and information about the species of the pests with regards to the climatic conditions and the counties they are usually found in. We utilized Llama 3.2 and FAISS database to implement this RAG.
 3. RAG Indexing: This folder contains the data(context) utilized by the RAG app and also transforming the data into vectors to implement vector search.
 
