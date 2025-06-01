@@ -5,6 +5,13 @@ This repository is the submission for **Reboot the EarthGlobal Tech Challenge 20
 
 **AgroSynth-RAG** combines real-time weather alerts with a retrieval-augmented LLaMA pipeline to give farmers both immediate climate warnings and localized pest-infestation risk forecasts.
 
+## Team Members:
+- [Tanishq (Myself)](https://www.linkedin.com/in/tanishq-sharma-ts/)
+- [Shresth](https://github.com/ShresthKapoor7)
+- [Aditya](https://www.linkedin.com/in/aditya-maheshwari-56b544251/)
+- [Hannah](https://www.linkedin.com/in/hannah-hb1225/)
+- [Tram](https://www.linkedin.com/in/ngoctramnguyen22/)
+- 
 ---
 These are the major components in this repository:
 1. weatherAlert.py: This file is used to provide real time weather alerts if in case there are any anomalies or severe weather that can potenially impact the weather.
