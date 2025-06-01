@@ -1,4 +1,4 @@
-This repository is the submission for **Reboot the EarthGlobal Tech Challenge 2025 Hackathon** organized by **United Nations**, **Salesforce** and **CMU**.
+This repository is a part of submission for **Reboot the EarthGlobal Tech Challenge 2025 Hackathon** organized by **United Nations**, **Salesforce** and **CMU**.
 
 
 # AgroSynth-RAG
